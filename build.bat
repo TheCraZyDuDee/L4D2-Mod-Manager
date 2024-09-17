@@ -1,0 +1,1 @@
+pyinstaller l4d2-manager.spec

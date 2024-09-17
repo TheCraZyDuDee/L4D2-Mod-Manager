@@ -1,6 +1,7 @@
 # L4D2-Mod-Manager
 
-Manager to enable Mods in Addon disabled Modes (Versus)
+Manager to enable Mods in Addon disabled Modes (Versus)<br>
+Steam Guide can be found [here](https://steamcommunity.com/sharedfiles/filedetails/?id=3332849494)
 
 ![](https://i.imgur.com/x5tZwkf.png)
 
